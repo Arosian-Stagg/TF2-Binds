@@ -16,4 +16,33 @@ M2(hold down) = Pulls out slot 2 and uses banner, FUN FACT if you keep holding m
 M3 = a simple rocket jump script for meduim sized jumps. for longer ones do it ur self ya lazy chuckle nuts :D
 Q used for cow mangler on those rare ocassions
 
-Pyro: 
+Pyro: just a simple fast fire for the flare gun
+M3(hold down) = pulls out flaregun and fires, upon release goes back to last slot
+
+Demoman: simple and easy sticky jump bind, also includes somewhat of a demoknight movement bind
+M3 = triggers jumping and dettonation of stickys, hold down to keep crouching in the air for better movement.
+4 used to toggle the demoknight stuff :/
+
+Heavy: easy quick toss of sandvich and quick eat, also a bind to say ur food is on cooldown.
+M3(U MUST HOLD DOWN) =(BIT BUGGED WILL LOOK INTO IT) Quick pulls out your food and eats it
+Q is a quick toss of your food, hold down q to pull out and toss, gives thanks to your target.
+T used to say your food is on cooldown.
+
+Engineer: A quick PDA bypasser and mouse weapon set up, quick loadout presets, and quick eureka teleport
+M1 = pulls out shotgun and fires
+M2 = pulls out wrench and hits 
+M3(push down) = pulls out pistol or wrangler, if level 3 with sentry will fire rockets too.
+Q TO PLACE AND PUT DOWN BUILDINGS REMEMBER THIS (IF GUN IS EQUIPED 1 SHOT WILL BE FIRED)
+
+1 = equips sentry building and destroys any present sentry if it exists
+2 = equips Dispenser building and destroys any present Dispenser if it exists
+3 = equips TELE ENTR building and destroys any present TELE ENTR if it exists
+4= equips TELE EXIT building and destroys any present TELE EXIT if it exists
+
+[ = loads preset A
+] = loads preset B
+' = loads preset C
+ENTER = loads preset D
+
+P = eureka_teleport 0 home
+O = eureka_teleport 1 tele exit
