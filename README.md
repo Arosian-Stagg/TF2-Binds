@@ -4,7 +4,8 @@ hello my good sires, this is my list/ backup for all my coding for my cfg files,
 All Class: runs autoexec to reformat everything back to basic binds before then editing them with the config. Disables scroll wheel. no likey Scrolly wheely >:(
 R gives voice command "NICE SHOT"
 T gives voice command "SPY"
-ALT = toggles the crouch, good for hoovy shenanigans, press alt or ctrl to get out 
+ALT = toggles the crouch, good for hoovy shenanigans, press alt or ctrl to get out
+(=) = player ready for MVM
 
 Scout: The mouse is used for all weapon changes and basic attacks. 
 M1 = equip scattergun and fire. 
