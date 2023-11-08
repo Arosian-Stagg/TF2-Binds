@@ -4,6 +4,7 @@ hello my good sires, this is my list/ backup for all my coding for my cfg files,
 All Class: runs autoexec to reformat everything back to basic binds before then editing them with the config. Disables scroll wheel. no likey Scrolly wheely >:(
 R gives voice command "NICE SHOT"
 T gives voice command "SPY"
+ALT = toggles the crouch, good for hoovy shenanigans, press alt or ctrl to get out 
 
 Scout: The mouse is used for all weapon changes and basic attacks. 
 M1 = equip scattergun and fire. 
@@ -14,7 +15,7 @@ Q is used for secondary actions like wrap assasin and shortstop push
 Soldier: Simple rocket jump script for lazy people and quick conch with hold down
 M2(hold down) = Pulls out slot 2 and uses banner, FUN FACT if you keep holding mouse 2 even when ur done blowing you can hold the charge until you need to activate. upon release it goes back to slot 1 regardless.
 M3 = a simple rocket jump script for meduim sized jumps. for longer ones do it ur self ya lazy chuckle nuts :D
-Q used for cow mangler on those rare ocassions
+Q used for cow mangler on those rare ocassions, secondary action
 
 Pyro: just a simple fast fire for the flare gun
 M3(hold down) = pulls out flaregun and fires, upon release goes back to last slot
