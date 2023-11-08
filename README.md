@@ -3,4 +3,4 @@ hello my good sires, this is my list/ backup for all my coding for my cfg files,
 
 All Class: runs autoexec to reformat everything back to basic binds before then editing them with the config. Disables scroll wheel. no likey Scrolly wheely >:(
 
-Scout: The mouse is used for all 
+Scout: The mouse is used for all weapon changes and basic attacks. M1 = equip scattergun and fire. M2 = equip bonk/secondary and fire if you hold down
