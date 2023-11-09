@@ -22,8 +22,8 @@ Pyro: just a simple fast fire for the flare gun.
 M3(hold down) = pulls out flaregun and fires, upon release goes back to last slot.
 
 Demoman: simple and easy sticky jump bind, also includes somewhat of a demoknight movement bind.
-M3 = triggers jumping and dettonation of stickys, hold down to keep crouching in the air for better movement.
-4 used to toggle the demoknight stuff :/ .
+M3 = triggers jumping and detonation of stickys, hold down to keep crouching in the air for better movement.
+4 used to toggle the demoknight stuff :/ 
 
 Heavy: easy quick toss of sandvich and quick eat, also a bind to say ur food is on cooldown.
 M3(U MUST HOLD DOWN) =(BIT BUGGED WILL LOOK INTO IT) Quick pulls out your food and eats it.
