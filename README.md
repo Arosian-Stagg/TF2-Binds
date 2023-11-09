@@ -52,11 +52,14 @@ Q = toggle auto heal with medigun
 R = Switches vac cycles.
 mwheeldown = MVM shield.
 //Fully Charged Chat Announcements
-the "uber_charged" "says to team ** UBER FULLY CHARGED **"
-the "kritz_charged" "says to team ** KRITZ FULLY CHARGED **"
-the "vacc_charged" "says to team ** VACCINATOR CHARGED **"
-alias "announce_ubercharge" "uber_charged"
-bind "SHIFT" "announce_ubercharge"	//Press shift to announce to chat that you have uber.
+the uber_charged says to team UBER FULLY CHARGED.
+the kritz_charged "says to team KRITZ FULLY CHARGED.
+the vacc_charged says to team  VACCINATOR CHARGED.
+shift = announce to chat that you have uber. Will change for each loadout.
+THE GAME WILL THINK THAT 
+LOADOUT A = Uber
+LOADOUT B = Kritz
+LOADOUT C = VAC
 
 //Uber Pop Chat Announcement
 alias "pop_uber" "says to team ** UBER POPPED! MAKE ME PROUD! PUSH **"
