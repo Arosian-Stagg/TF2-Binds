@@ -48,8 +48,9 @@ O = eureka_teleport 1 tele exit.
 
 Medic: auto heal, quick uber swapp, Medic radiar, and multiple chat related binds.
 E = calls out for medic and says to team chat "Our Medic is hurt. Send help!"
-Q = toggle auto heal with medigun, also uses MVM shield.
+Q = toggle auto heal with medigun
 R = Switches vac cycles.
+mwheeldown = MVM shield.
 //Fully Charged Chat Announcements
 the "uber_charged" "says to team ** UBER FULLY CHARGED **"
 the "kritz_charged" "says to team ** KRITZ FULLY CHARGED **"
