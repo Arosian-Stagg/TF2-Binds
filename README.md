@@ -73,8 +73,11 @@ Q TO PLACE AND PUT DOWN BUILDINGS REMEMBER THIS (IF GUN IS EQUIPED 1 SHOT WILL B
 4 = equips TELE EXIT building and destroys any present TELE EXIT if it exists.
 
 [ = loads preset A.
+
 ] = loads preset B.
+
 ' = loads preset C.
+
 ENTER = loads preset D.
 
 P = eureka_teleport 0 home.
