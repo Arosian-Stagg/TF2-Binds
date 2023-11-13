@@ -12,7 +12,7 @@ T gives voice command "SPY"
 ALT = toggles the crouch, good for hoovy shenanigans, press alt or ctrl to get out
 
 (=) = player ready for MVM
-
+______________________________
 
 SCOUT: The mouse is used for all weapon changes and basic attacks. 
 
@@ -23,7 +23,7 @@ M2 = equip bonk/secondary and fire stays on slot 2.
 M3(clicking on the wheel) = pull out and attack. 
 
 Q is used for secondary actions like wrap assasin and shortstop push.
-
+_____________________________
 
 SOLDIER: Simple rocket jump script for lazy people and quick conch with hold down.
 
@@ -33,18 +33,18 @@ M3 = a simple rocket jump script for meduim sized jumps. for longer ones do it u
 
 Q used for cow mangler on those rare ocassions, secondary action.
 
-
+_____________________________
 PYRO: just a simple fast fire for the flare gun.
 
 M3(hold down) = pulls out flaregun and fires, upon release goes back to last slot.
-
+_____________________________
 
 DEMOMAN: simple and easy sticky jump bind, also includes somewhat of a demoknight movement bind.
 
 M3 = triggers jumping and detonation of stickys, hold down to keep crouching in the air for better movement.
 
 4 used to toggle the demoknight stuff :/ 
-
+_____________________________
 
 HEAVY: easy quick toss of sandvich and quick eat, also a bind to say ur food is on cooldown.
 
@@ -53,7 +53,7 @@ M3(U MUST HOLD DOWN) =(BIT BUGGED WILL LOOK INTO IT) Quick pulls out your food a
 Q is a quick toss of your food, hold down q to pull out and toss, gives thanks to your target.
 
 T used to say your food is on cooldown.
-
+_____________________________
 
 ENGINEER: A quick PDA bypasser and mouse weapon set up, quick loadout presets, and quick eureka teleport.
 
@@ -79,6 +79,7 @@ ENTER = loads preset D.
 
 P = eureka_teleport 0 home.
 O = eureka_teleport 1 tele exit.
+_____________________________
 
 MEDIC: auto heal, quick uber swapp, Medic radiar, and multiple chat related binds.
 
@@ -118,11 +119,11 @@ EVERYTIME YOU SWAP TO MEDIC FOR THE FIRST TIME IT WILL THINK YOU HAVE STOCK UBER
 ] = switches to Kritz uber and announces your switch to your team.
 ' = Switches to Vacc uber and announces your switch to your team.
 
-
+_____________________________
 SNIPER: a quick jarate throw.
 Q(hold) = throws jarate then back to sniper upon release.
 
-
+_____________________________
 SPY: Disq weapons auto swapper, auto disquiser toggle, and undisquise.
 
 P = drops your disquise without the need to attack.
