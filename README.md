@@ -78,6 +78,7 @@ Q TO PLACE AND PUT DOWN BUILDINGS REMEMBER THIS (IF GUN IS EQUIPED 1 SHOT WILL B
 ENTER = loads preset D.
 
 P = eureka_teleport 0 home.
+
 O = eureka_teleport 1 tele exit.
 _____________________________
 
