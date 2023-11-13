@@ -48,7 +48,7 @@ _____________________________
 
 HEAVY: easy quick toss of sandvich and quick eat, also a bind to say ur food is on cooldown.
 
-M3(U MUST HOLD DOWN) =(BIT BUGGED WILL LOOK INTO IT) Quick pulls out your food and eats it.
+M3(U MUST HOLD DOWN) = Quick pulls out your food and eats it.
 
 Q is a quick toss of your food, hold down q to pull out and toss, gives thanks to your target.
 
