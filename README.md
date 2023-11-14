@@ -124,7 +124,7 @@ KRITZ says to team ** KRITZ POPPED! MAKE ME PROUD! PUSH! **
 VAC says to team ** VACC POINT USED! HOLD ON TIGHT! **
 _____________________________
 SNIPER: a quick jarate throw.
-Q(hold) = throws jarate then back to sniper upon release.
+mouse3 = throws jarate then back to sniper upon release.
 
 _____________________________
 SPY: Disq weapons auto swapper, auto disquiser toggle, and undisquise.
