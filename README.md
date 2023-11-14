@@ -35,6 +35,7 @@ M3 = a simple rocket jump script for meduim sized jumps. for longer ones do it u
 
 Q used for cow mangler on those rare ocassions, secondary action.
 
+' used for loadout 3
 _____________________________
 PYRO: just a simple fast fire for the flare gun.
 
@@ -46,6 +47,8 @@ DEMOMAN: simple and easy sticky jump bind, also includes somewhat of a demoknigh
 M3 = triggers jumping and detonation of stickys, hold down to keep crouching in the air for better movement.
 
 4 used to toggle the demoknight stuff :/ 
+
+' used for loadout 3
 _____________________________
 
 HEAVY: easy quick toss of sandvich and quick eat, also a bind to say ur food is on cooldown.
