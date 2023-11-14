@@ -132,9 +132,9 @@ the vacc_charged says to team  VACCINATOR CHARGED.
 
 //Uber Pop Chat Announcement
 
-UBER says to team ** UBER POPPED! MAKE ME PROUD! PUSH! **
+UBER says to team ** UBER POPPED! MAKE ME PROUD! **
 
-KRITZ says to team ** KRITZ POPPED! MAKE ME PROUD! PUSH! **
+KRITZ says to team ** KRITZ POPPED! MAKE ME PROUD! **
 
 VAC says to team ** VACC POINT USED! HOLD ON TIGHT! **
 _____________________________
