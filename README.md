@@ -106,6 +106,14 @@ mwheeldown = MVM shield.
 
 //Fully Charged Chat Announcements
 
+EVERYTIME YOU SWAP TO MEDIC FOR THE FIRST TIME IT WILL THINK YOU HAVE STOCK UBER, SO WHEN YOU WANT TO USE A CERTIN UBER, USE THE LOADOUT SWAPPER FOR QUICK EASE AND RIGHT VOICE CHAT.
+
+THE GAME WILL THINK THAT 
+
+LOADOUT A = Uber
+LOADOUT B = Kritz
+LOADOUT C = VAC
+
 shift = announce to chat that you have uber. Will change for each loadout.
 
 [ = switches to stock uber and announces your switch to your team.
@@ -113,13 +121,6 @@ shift = announce to chat that you have uber. Will change for each loadout.
 ] = switches to Kritz uber and announces your switch to your team.
 
 ' = Switches to Vacc uber and announces your switch to your team.
-
-EVERYTIME YOU SWAP TO MEDIC FOR THE FIRST TIME IT WILL THINK YOU HAVE STOCK UBER, SO WHEN YOU WANT TO USE A CERTIN UBER, USE THE LOADOUT SWAPPER FOR QUICK EASE AND RIGHT VOICE CHAT.
-
-THE GAME WILL THINK THAT 
-LOADOUT A = Uber
-LOADOUT B = Kritz
-LOADOUT C = VAC
 
 Uber Pop Chat Announcement
 UBER says to team ** UBER POPPED! MAKE ME PROUD! PUSH! **
