@@ -57,7 +57,7 @@ _____________________________
 
 HEAVY: easy quick toss of sandvich and quick eat, also a bind to say ur food is on cooldown.
 
-M3(U MUST HOLD DOWN) = Quick pulls out your food and eats it.
+M3(hold down) = Quick pulls out your food and eats it.
 
 Q is a quick toss of your food, hold down q to pull out and toss, gives thanks to your target.
 
@@ -133,8 +133,8 @@ KRITZ says to team ** KRITZ POPPED! MAKE ME PROUD! PUSH! **
 VAC says to team ** VACC POINT USED! HOLD ON TIGHT! **
 _____________________________
 SNIPER: a quick jarate throw.
-mouse3 = throws jarate then back to sniper upon release.
 
+mouse3 = throws jarate then back to sniper upon release.
 _____________________________
 SPY: Disq weapons auto swapper, auto disquiser toggle, and undisquise.
 
