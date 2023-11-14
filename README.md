@@ -106,12 +106,6 @@ mwheeldown = MVM shield.
 
 //Fully Charged Chat Announcements
 
-the uber_charged says to team UBER FULLY CHARGED.
-
-the kritz_charged "says to team KRITZ FULLY CHARGED.
-
-the vacc_charged says to team  VACCINATOR CHARGED.
-
 shift = announce to chat that you have uber. Will change for each loadout.
 
 [ = switches to stock uber and announces your switch to your team.
@@ -131,6 +125,12 @@ Uber Pop Chat Announcement
 UBER says to team ** UBER POPPED! MAKE ME PROUD! PUSH! **
 KRITZ says to team ** KRITZ POPPED! MAKE ME PROUD! PUSH! **
 VAC says to team ** VACC POINT USED! HOLD ON TIGHT! **
+
+he uber_charged says to team UBER FULLY CHARGED.
+
+the kritz_charged "says to team KRITZ FULLY CHARGED.
+
+the vacc_charged says to team  VACCINATOR CHARGED.
 _____________________________
 SNIPER: a quick jarate throw.
 
