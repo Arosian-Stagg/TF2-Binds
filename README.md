@@ -106,15 +106,15 @@ mwheeldown = MVM shield.
 
 //Fully Charged Chat Announcements
 
-EVERYTIME YOU SWAP TO MEDIC FOR THE FIRST TIME IT WILL THINK YOU HAVE STOCK UBER, SO WHEN YOU WANT TO USE A CERTIN UBER, USE THE LOADOUT SWAPPER FOR QUICK EASE AND RIGHT VOICE CHAT.
+EVERYTIME YOU SWAP TO MEDIC FOR THE FIRST TIME IT WILL THINK YOU HAVE STOCK UBER, SO WHEN YOU WANT TO USE A CERTIN UBER, USE THE LOADOUT SWAPPER FOR QUICK EASE AND RIGHT VOICE CHAT. 
 
 THE GAME WILL THINK THAT 
 
 LOADOUT A = Uber
-LOADOUT B = Kritz
-LOADOUT C = VAC
 
-shift = announce to chat that you have uber. Will change for each loadout.
+LOADOUT B = Kritz
+
+LOADOUT C = VAC
 
 [ = switches to stock uber and announces your switch to your team.
 
@@ -122,20 +122,25 @@ shift = announce to chat that you have uber. Will change for each loadout.
 
 ' = Switches to Vacc uber and announces your switch to your team.
 
-Uber Pop Chat Announcement
-UBER says to team ** UBER POPPED! MAKE ME PROUD! PUSH! **
-KRITZ says to team ** KRITZ POPPED! MAKE ME PROUD! PUSH! **
-VAC says to team ** VACC POINT USED! HOLD ON TIGHT! **
+shift = announce to chat that you have uber. Will change for each loadout.
 
-he uber_charged says to team UBER FULLY CHARGED.
+the uber_charged says to team UBER FULLY CHARGED.
 
 the kritz_charged "says to team KRITZ FULLY CHARGED.
 
 the vacc_charged says to team  VACCINATOR CHARGED.
+
+//Uber Pop Chat Announcement
+
+UBER says to team ** UBER POPPED! MAKE ME PROUD! PUSH! **
+
+KRITZ says to team ** KRITZ POPPED! MAKE ME PROUD! PUSH! **
+
+VAC says to team ** VACC POINT USED! HOLD ON TIGHT! **
 _____________________________
 SNIPER: a quick jarate throw.
 
-mouse3 = throws jarate then back to sniper upon release.
+mouse3(hold down) = throws jarate then to last slot.
 _____________________________
 SPY: Disq weapons auto swapper, auto disquiser toggle, and undisquise.
 
