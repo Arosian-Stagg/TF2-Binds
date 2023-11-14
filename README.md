@@ -3,7 +3,7 @@ hello my good sires, this is my list/ backup for all my coding for my cfg files,
 ______________________________
 All CLASS: runs autoexec to reformat everything back to basic binds before then editing them with the config.
 
-[ and ] are now used to access loadouts A and B for all classes
+([) and (]) are now used to access loadouts A and B for all classes
 
 Disables scroll wheel. no likey Scrolly wheely >:(
 
