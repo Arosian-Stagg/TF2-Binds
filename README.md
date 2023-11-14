@@ -3,7 +3,11 @@ hello my good sires, this is my list/ backup for all my coding for my cfg files,
 ______________________________
 All CLASS: runs autoexec to reformat everything back to basic binds before then editing them with the config.
 
-[ and ] are now used to access loadouts A and B for all classes
+now all classes and have access to loadouts A and B
+
+[ = loads preset A.
+
+] = loads preset B.
 
 Disables scroll wheel. no likey Scrolly wheely >:(
 
@@ -35,7 +39,7 @@ M3 = a simple rocket jump script for meduim sized jumps. for longer ones do it u
 
 Q used for cow mangler on those rare ocassions, secondary action.
 
-' used for loadout 3
+' = loads preset C.
 _____________________________
 PYRO: just a simple fast fire for the flare gun.
 
@@ -48,7 +52,7 @@ M3 = triggers jumping and detonation of stickys, hold down to keep crouching in 
 
 4 used to toggle the demoknight stuff :/ 
 
-' used for loadout 3
+' = loads preset C.
 _____________________________
 
 HEAVY: easy quick toss of sandvich and quick eat, also a bind to say ur food is on cooldown.
