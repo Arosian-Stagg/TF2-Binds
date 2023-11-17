@@ -28,7 +28,9 @@ M2 = equip bonk/secondary and fire stays on slot 2.
 
 M3(clicking on the wheel) = pull out and attack. 
 
-Q is used for secondary actions like wrap assasin and shortstop push.
+Q = secondary actions like wrap assasin and shortstop push.
+
+shift(used for bonk atomic punch) = toggles bind to hold out the bonk even after you drink it as soon as it refills it will instantly drink it. 
 _____________________________
 
 SOLDIER: Simple rocket jump script for lazy people and quick conch with hold down.
@@ -44,6 +46,8 @@ _____________________________
 PYRO: just a simple fast fire for the flare gun.
 
 M3(hold down) = pulls out flaregun and fires, upon release goes back to last slot.
+
+q = toggles axtinguisher pull out and attacking. 
 _____________________________
 
 DEMOMAN: simple and easy sticky jump bind, also includes somewhat of a demoknight movement bind.
@@ -58,6 +62,8 @@ _____________________________
 HEAVY: easy quick toss of sandvich and quick eat, also a bind to say ur food is on cooldown.
 
 M3(hold down) = Quick pulls out your food and eats it.
+
+mwheeldown= if you get stuck in a eating loop it will cancel the loop.
 
 Q is a quick toss of your food, hold down q to pull out and toss, gives thanks to your target.
 
@@ -98,7 +104,7 @@ MEDIC: auto heal, quick uber swapp, Medic radiar, and multiple chat related bind
 
 E = calls out for medic and says to team chat "Our Medic is hurt. Send help!"
 
-Q = toggle auto heal with medigun
+Q = toggle auto heal with medigun.
 
 R = Switches vac cycles.
 
