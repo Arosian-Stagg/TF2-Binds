@@ -77,6 +77,7 @@ M1 = pulls out shotgun and fires.
 M2 = pulls out wrench and hits.
 
 M3(click/hold) = pulls out pistol or wrangler, if level 3 with sentry will fire rockets too.
+
 Q TO PLACE AND PUT DOWN BUILDINGS REMEMBER THIS (IF GUN IS EQUIPED 1 SHOT WILL BE FIRED).
 
 1 = equips sentry building and destroys any present sentry if it exists.
