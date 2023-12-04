@@ -31,7 +31,6 @@ M3(clicking on the wheel) = pull out and attack.
 
 Q = secondary actions like wrap assasin and shortstop push.
 
-shift(used for bonk atomic punch) = toggles bind to hold out the bonk even after you drink it as soon as it refills it will instantly drink it.(W.I.P)
 _____________________________
 
 SOLDIER: Simple rocket jump script for lazy people and quick conch with hold down.
