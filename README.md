@@ -47,7 +47,7 @@ PYRO: just a simple fast fire for the flare gun.
 
 M3(hold down) = pulls out flaregun and fires, upon release goes back to last slot.
 
-q = toggles axtinguisher pull out and attacking. 
+q = toggles axtinguisher pull out and attacking. (W.I.P)
 _____________________________
 
 DEMOMAN: simple and easy sticky jump bind, also includes somewhat of a demoknight movement bind.
@@ -67,7 +67,7 @@ mwheeldown= if you get stuck in a eating loop it will cancel the loop.
 
 Q is a quick toss of your food, hold down q to pull out and toss, gives thanks to your target.
 
-T used to say your food is on cooldown.
+right control used to say your food is on cooldown.
 _____________________________
 
 ENGINEER: A quick PDA bypasser and mouse weapon set up, quick loadout presets, and quick eureka teleport.
