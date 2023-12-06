@@ -63,8 +63,6 @@ HEAVY: easy quick toss of sandvich and quick eat, also a bind to say ur food is 
 
 M3(hold down) = Quick pulls out your food and eats it.
 
-mwheeldown= if you get stuck in a eating loop it will cancel the loop.
-
 Q is a quick toss of your food, hold down q to pull out and toss, gives thanks to your target.
 
 right control used to say your food is on cooldown.
