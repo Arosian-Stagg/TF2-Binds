@@ -47,7 +47,7 @@ PYRO: just a simple fast fire for the flare gun.
 
 M3(hold down) = pulls out flaregun and fires, upon release goes back to last slot.
 
-q = toggles axtinguisher pull out and attacking. (W.I.P)
+q = toggles axtinguisher pull out and attacking.
 _____________________________
 
 DEMOMAN: simple and easy sticky jump bind, also includes somewhat of a demoknight movement bind.
