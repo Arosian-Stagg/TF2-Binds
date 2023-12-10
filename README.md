@@ -12,9 +12,13 @@ now all classes have access to loadouts A and B
 
 Disables scroll wheel. no likey Scrolly wheely >:(
 
-R gives voice command "NICE SHOT"
+holding down shift changes the voice line when pressing down on the voice keys
 
-T gives voice command "SPY"
+E = medic or help
+
+R = nice short or spy
+
+F = thanks or good job
 
 ALT = toggles the crouch, good for hoovy shenanigans, press alt or ctrl to get out
 
