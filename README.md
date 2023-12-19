@@ -31,7 +31,7 @@ M1 = equip scattergun and fire.
 
 M2 = equip bonk/secondary and fire stays on slot 2. 
 
-M3(clicking on the wheel) = pull out and attack. 
+M3(clicking on the wheel) = pulls out and attacks 1 and 2. 
 
 Q = secondary actions like wrap assasin and shortstop push.
 
