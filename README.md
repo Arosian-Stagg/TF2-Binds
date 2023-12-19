@@ -69,7 +69,7 @@ M3(hold down) = Quick pulls out your food and eats it.
 
 Q(hold down) is a quick toss of your food, hold down q to pull out and toss, gives thanks to your target.
 
-right control used to say your food is on cooldown.
+right control = say your food is on cooldown.
 _____________________________
 
 ENGINEER: A quick PDA bypasser and mouse weapon set up, quick loadout presets, and quick eureka teleport.
