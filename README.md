@@ -16,7 +16,7 @@ holding down shift changes the voice line when pressing down on the voice keys
 
 E = medic or help
 
-R = nice short or spy
+R = nice shot or spy
 
 F = thanks or good job
 
