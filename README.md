@@ -107,9 +107,9 @@ MEDIC: auto heal, quick uber swapp, Medic radiar, and multiple chat related bind
 
 E = calls out for medic and says to team chat "Our Medic is hurt. Send help!"
 
-Q = toggle auto heal with medigun.
+4 = toggle auto heal with medigun.
 
-R = Switches vac cycles.
+Q = Switches vac cycles.
 
 mwheeldown = MVM shield.
 
@@ -131,7 +131,7 @@ LOADOUT C = VAC
 
 ' = Switches to Vacc uber and announces your switch to your team.
 
-shift = announce to chat that you have uber. Will change for each loadout.
+*UNDER CONTRUCTION MAY INTERFEARE WITH STUFF*shift = announce to chat that you have uber. Will change for each loadout.
 
 the uber_charged says to team UBER FULLY CHARGED.
 
