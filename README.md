@@ -43,7 +43,7 @@ M2(hold down) = Pulls out slot 2 and uses banner, FUN FACT if you keep holding m
 
 M3 = a simple rocket jump script for meduim sized jumps. for longer ones do it ur self ya lazy chuckle nuts :D .
 
-Q used for cow mangler on those rare ocassions, secondary action.
+Q = cow mangler Blast on those rare ocassions, secondary action.
 
 ' = loads preset C.
 _____________________________
