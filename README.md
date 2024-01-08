@@ -51,25 +51,23 @@ PYRO: just a simple fast fire for the flare gun.
 
 M3(hold down) = pulls out flaregun and fires, upon release goes back to last slot.
 
-q = toggles axtinguisher pull out and attacking.
+Q = toggles axtinguisher pull out and attacking.
 _____________________________
 
-DEMOMAN: simple and easy sticky jump bind, also includes somewhat of a demoknight movement bind.
+DEMOMAN: simple and easy sticky jump bind.
 
 M3 = triggers jumping and detonation of stickys, hold down to keep crouching in the air for better movement.
-
-4 used to toggle the demoknight stuff :/ 
 
 ' = loads preset C.
 _____________________________
 
-HEAVY: easy quick toss of sandvich and quick eat, also a bind to say ur food is on cooldown.
+HEAVY: Easy Quick Toss of sandvich and quick eat, also a bind to say ur food is on cooldown.
 
-M3(hold down) = Quick pulls out your food and eats it.
+M3(hold down) = Quick pull of your food and eats it.
 
 Q(hold down) is a quick toss of your food, hold down q to pull out and toss, gives thanks to your target.
 
-right control = say your food is on cooldown.
+Right Control = say your food is on cooldown.
 _____________________________
 
 ENGINEER: A quick PDA bypasser and mouse weapon set up, quick loadout presets, and quick eureka teleport.
@@ -80,7 +78,7 @@ M2 = pulls out wrench and hits.
 
 M3(click/hold) = pulls out pistol or wrangler, if level 3 with sentry will fire rockets too.
 
-Q TO PLACE AND PUT DOWN BUILDINGS REMEMBER THIS (IF GUN IS EQUIPED 1 SHOT WILL BE FIRED).
+Q = PLACE AND PUT DOWN BUILDINGS.(IF GUN IS EQUIPED 1 SHOT WILL BE FIRED).
 
 1 = equips sentry building and destroys any present sentry if it exists.
 
