@@ -131,7 +131,7 @@ LOADOUT C = VAC
 
 ' = Switches to Vacc uber and announces your switch to your team.
 
-*UNDER CONTRUCTION MAY INTERFEARE WITH STUFF*shift = announce to chat that you have uber. Will change for each loadout.
+MwheelUP = announce to chat that you have uber. Will change for each loadout.
 
 the uber_charged says to team UBER FULLY CHARGED.
 
