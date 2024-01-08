@@ -159,4 +159,4 @@ Q= auto disuise toggle, when you stop attacking you will auto disq.
 
 M3: for quick disq when not using the auto.
 
-PASSIVE AUTO WEAPON DISQ, if you hold your gun and disq as a scout,they will have a scattergun, but if you swap to the sapper the scout will put out the pistol without the need of B,but if you swapp to your knife they will not swap to the bat.
+PASSIVE AUTO WEAPON DISQ, if you hold your gun and disq as a scout,they will have a scattergun, but if you swap to the sapper the scout will put out the pistol without the need of B,but if you swapp to your knife they will not swap to the bat. But you can use M3 for this.
