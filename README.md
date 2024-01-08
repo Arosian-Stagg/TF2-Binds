@@ -54,7 +54,7 @@ M3(hold down) = pulls out flaregun and fires, upon release goes back to last slo
 Q = toggles axtinguisher pull out and attacking.
 _____________________________
 
-DEMOMAN: simple and easy sticky jump bind.
+DEMOMAN: simple and easy sticky jump bind. Also includes somewhat of a demoknight movement bind
 
 M3 = triggers jumping and detonation of stickys, hold down to keep crouching in the air for better movement.
 
