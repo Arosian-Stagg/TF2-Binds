@@ -68,6 +68,8 @@ M3(hold down) = Quick pull of your food and eats it.
 Q(hold down) is a quick toss of your food, hold down q to pull out and toss, gives thanks to your target.
 
 Right Control = say your food is on cooldown.
+
+L = pootis pow script (hold L for about a second then release)
 _____________________________
 
 ENGINEER: A quick PDA bypasser and mouse weapon set up, quick loadout presets, and quick eureka teleport.
