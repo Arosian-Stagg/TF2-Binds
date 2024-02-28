@@ -6,6 +6,10 @@ All CLASS: runs autoexec to reformat everything back to basic binds before then 
 
 Null cancel movement
 
+RightArrow = Inspect
+
+Up and down Arrows = cycle through player cams when dead
+
 now all classes have access to loadouts A and B
 
 [ = loads preset A.
@@ -16,11 +20,7 @@ Disables scroll wheel. no likey Scrolly wheely >:(
 
 V = Toggle Voice Chat
 
-RightArrow = Inspect
-
-Up and down Arrows = cycle through player cams when dead
-
-holding down shift changes the voice line when pressing down on the voice keys
+Holding down shift changes the voice line when pressing down on the voice keys
 
 E = medic or help
 
