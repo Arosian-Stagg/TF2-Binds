@@ -8,7 +8,7 @@ Null cancel movement
 
 RightArrow = Inspect
 
-Up and down Arrows = cycle through player cams when dead
+Up and Down Arrows = cycle through player cams when dead
 
 now all classes have access to loadouts A and B
 
