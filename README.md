@@ -49,7 +49,7 @@ Q = secondary actions like wrap assasin and shortstop push.
 
 _____________________________
 
-SOLDIER: Simple rocket jump script for lazy people and quick conch with hold down.
+SOLDIER: Simple rocket jump script and quick conch with hold down.
 
 M2(hold down) = Pulls out slot 2 and uses banner, FUN FACT if you keep holding mouse 2 even when ur done blowing you can hold the charge until you need to activate. upon release it goes back to slot 1 regardless.
 
