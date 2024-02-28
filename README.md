@@ -33,6 +33,8 @@ ALT = toggles the crouch, good for hoovy shenanigans, press alt again or tap ctr
 (=) = player ready for MVM
 
 \ = Contracts
+
+` = toggles Console
 ______________________________
 
 SCOUT: The mouse is used for all weapon changes and basic attacks. 
