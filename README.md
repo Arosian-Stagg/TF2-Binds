@@ -22,11 +22,11 @@ V = Toggle Voice Chat
 
 Holding down shift changes the voice line when pressing down on the voice keys
 
-E = medic or help
+E = Medic or Help
 
-R = nice shot or spy
+F = Thanks or Good Job
 
-F = thanks or good job
+R = Spy!
 
 ALT = toggles the crouch, good for hoovy shenanigans, press alt again or tap ctrl to get out
 
