@@ -4,6 +4,8 @@ hello my good sires, this is my list/ backup for all my coding for my cfg files,
 ______________________________
 All CLASS: runs autoexec to reformat everything back to basic binds before then editing them with the config.
 
+Null cancel movement
+
 now all classes have access to loadouts A and B
 
 [ = loads preset A.
@@ -11,6 +13,12 @@ now all classes have access to loadouts A and B
 ] = loads preset B.
 
 Disables scroll wheel. no likey Scrolly wheely >:(
+
+V = Toggle Voice Chat
+
+RightArrow = Inspect
+
+Up and down Arrows = cycle through player cams when dead
 
 holding down shift changes the voice line when pressing down on the voice keys
 
@@ -20,9 +28,11 @@ R = nice shot or spy
 
 F = thanks or good job
 
-ALT = toggles the crouch, good for hoovy shenanigans, press alt or ctrl to get out
+ALT = toggles the crouch, good for hoovy shenanigans, press alt again or tap ctrl to get out
 
 (=) = player ready for MVM
+
+\ = Contracts
 ______________________________
 
 SCOUT: The mouse is used for all weapon changes and basic attacks. 
