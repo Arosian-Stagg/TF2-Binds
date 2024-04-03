@@ -67,9 +67,12 @@ Q = toggles axtinguisher pull out and attacking.
 _____________________________
 
 DEMOMAN: simple and easy sticky jump bind.
+
 M3 = triggers jumping and detonation of stickys, hold down to keep crouching in the air for better movement.
 
 ' = loads preset C.
+
+4 = toggles demoknight bind to turn with A & D when holding down M2
 _____________________________
 
 HEAVY: Easy Quick Toss of sandvich and quick eat, also a bind to say ur food is on cooldown.
