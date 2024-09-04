@@ -43,7 +43,7 @@ M1 = equip scattergun and fire.
 
 M2 = equip bonk/secondary and fire stays on slot 2. 
 
-M3(clicking on the wheel) = pulls out meele, hold down to swing and launch any projectiles for the sandmand or wrap-assassin
+M3(clicking on the wheel) = pulls out meele, hold down to swing and launch any projectiles for the sandman or wrap-assassin
 
 Q = secondary actions like wrap assasin and shortstop push.
 
