@@ -169,7 +169,9 @@ SPY: Disq weapons auto swapper, auto disquiser toggle, and undisquise.
 
 P = drops your disquise without the need to attack.
 
-Q= auto disuise toggle, when you stop attacking you will auto disq.
+5 = auto disuise toggle, when you stop attacking you will auto disq.
+
+Q = Quick swap with Gun and knife, even when on sapper and disq kit.
 
 M3: for quick disq when not using the auto.
 
