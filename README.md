@@ -125,7 +125,9 @@ E = calls out for medic and says to team chat "Our Medic is hurt. Send help!"
 
 Q = Switches vac cycles.
 
-mwheeldown = MVM shield.
+Mwheeldown = MVM shield.
+
+Mwheelup = chat call to say you have full uber.
 
 //Fully Charged Chat Announcements
 
