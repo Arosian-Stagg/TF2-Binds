@@ -117,7 +117,7 @@ P = eureka_teleport 0 home.
 O = eureka_teleport 1 tele exit.
 _____________________________
 
-MEDIC: auto heal, quick uber swapp, Medic radiar, and multiple chat related binds.
+MEDIC: auto heal, quick uber swapp, Medic radar, and multiple chat related binds.
 
 E = calls out for medic and says to team chat "Our Medic is hurt. Send help!"
 
