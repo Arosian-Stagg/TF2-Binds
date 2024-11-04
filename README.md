@@ -6,9 +6,9 @@ All CLASS: runs autoexec to reformat everything back to basic binds before then 
 
 Null cancel movement = if you hold left and then hold right with both left and right being held down, you will go right instead of standing still.
 
-RightArrow = Inspect
+UpArrow = Inspect
 
-Up and Down Arrows = cycle through player cams when dead
+Left and Right Arrows = cycle through player cams when dead
 
 now all classes have access to loadouts A and B
 
