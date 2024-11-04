@@ -161,7 +161,7 @@ UBER says to team ** UBER POPPED! MAKE ME PROUD! **
 
 KRITZ says to team ** KRITZ POPPED! MAKE ME PROUD! **
 
-VAC says to team ** VACC POINT USED! HOLD ON TIGHT! **
+VAC says to team ** VACC POINT USED! HOLD ON TIGHT! ** ( i do advise not using vac due to spamability and quick charges)
 _____________________________
 SNIPER: a quick jarate throw.
 
